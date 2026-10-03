@@ -1,0 +1,11 @@
+filename,true_label,true_numeric,spoof_probability,predicted_numeric,predicted_label
+LA_T_1000137_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1000406_phone.wav,bonafide,0,1.0,1,spoof
+LA_T_1000648_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1000824_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1001074_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1001114_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1001169_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1001718_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1001871_phone.wav,spoof,1,1.0,1,spoof
+LA_T_1002656_phone.wav,spoof,1,1.0,1,spoof
